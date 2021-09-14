@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "893731292527",
+    "project_id": "foxbrain-todo",
+    "storage_bucket": "foxbrain-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893731292527:android:98bbc8092ba9f352cd149a",
+        "android_client_info": {
+          "package_name": "com.example.foxbrain_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893731292527-f6b3m2hacka3qbbqk90ckqttg10q5br5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG9_lar4q_V-vhECVun7CHuobU2blke1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893731292527-f6b3m2hacka3qbbqk90ckqttg10q5br5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893731292527:android:53e0b74964c6a16dcd149a",
+        "android_client_info": {
+          "package_name": "com.vatsal.todo_foxbrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893731292527-f6b3m2hacka3qbbqk90ckqttg10q5br5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG9_lar4q_V-vhECVun7CHuobU2blke1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893731292527-f6b3m2hacka3qbbqk90ckqttg10q5br5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
